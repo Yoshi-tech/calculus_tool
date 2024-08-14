@@ -1,7 +1,7 @@
 /*
 This program is meant to be a driver for the polynomial object, it prompts the user to enter a string of numbers with which the program invokes the polynomial object, it then prints out the lead term, order, constant term, y int, and a little table of values 
 flowchart: https://pdsb1-my.sharepoint.com/:u:/g/personal/885628_pdsb_net/EWCJtQjAZZFDl3oTWhldjn0BldRjTFIYedrg3Q5ewIlT_Q?e=sJS5A5
-Author: Yash Joshi 885628@pdsb.net
+Author: Yash Joshi
 variable dictionary
 
 protected String[] coeffString = array to take input values for coeff
